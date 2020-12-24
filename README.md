@@ -1,2 +1,3 @@
 # hello-world
-Just getting started
+Hi guys
+Im Andrew and I'm really excited to learn!
